@@ -1,4 +1,4 @@
-:shipit: G'day! I make _things_ for _fun_. Strange notion, huh?
+:shipit: G'day! I make _things_ for _fun_.
 
 Mostly tinkering in Blender / Java / web, trying to dabble in shaders/retro Nintendo modding/other stupid nonsense. I'm also making an Ottoman-era cannoneering game, supposedly. Perfectionist procrastinator (mostly the former!). Ardent supporter of you — yes, you, ya lovely human being! Go you!
 <p align:"center">
