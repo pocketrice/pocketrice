@@ -1,4 +1,4 @@
-:shipit: hii! I make _things_ for _fun_.
+> :shipit: hii! I try to make useless, fun, neat lil' things with these magic boxes we call 'computers' _:>_
 
 Mostly tinkering in Blender / Java / web, trying to dabble in shaders/retro Nintendo modding/other nonsense. I'm also making an Ottoman-era cannoneering game and a GBC rom hack, supposedly. Perfectionist procrastinator (mostly the former!). Ardent supporter of you — yes, you, ya lovely human being! Go you!
 <p align:"center">
