@@ -1,4 +1,4 @@
-> :shipit: hii! I make fun, neat lil' things with these magic boxes we call 'computers' _:>_
+> :shipit: I make fun, neat lil' things with these magic boxes we call 'computers'. _:>_
 
 Tinkering in Blender / Java / web, trying to dabble in shaders/retro Nintendo modding/etc. I'm also making an Ottoman-era cannoneering game and a GBC rom hack, supposedly. Ardent supporter of you — yes, you, ya lovely human being! Go you!
 <p align:"center">
