@@ -1,4 +1,4 @@
-> :shipit: hi! neat lil nonsense things are my specialty! ₊·*◟(˶╹̆ꇴ╹̆˵)◜‧*･
+> :shipit: hi! neat lil nonsense things are my specialty! (〃^∇^)ﾉ 
 
 Welcome to my endless pit of java/shader/srceng/shell/web/etc ideas! Making an Ottoman-era cannoneering game and GBC rom hack, supposedly. And yes, ardent supporter of _you_ — yes, you, ya lovely human being!!
 <p align:"center">
