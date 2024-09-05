@@ -1,4 +1,4 @@
-> _hi! happy you're here!_ (〃^∇^)ﾉ 
+> _hiya!_ (୨୧ ❛ᴗ❛)✧
 
 Welcome to my great big pit of java/romhack/shell/web/etc projects! Working on an Ottoman-era cannoneering game and a few tiny GBC/SNES/DS rom hacks. And yes, ardent supporter of _you_ — yes, you, ya lovely human being!
 <p align:"center">
