@@ -5,7 +5,7 @@ Hello! This is my great big pit of java/c/shell/web/etc projects, under construc
   > [!note]
 > A few things I'm working on...
 > - a historically accurate Ottoman-era cannoneering game
-> - bunch of silly lil' web tools
+> - bunch of silly lil' web "experiences"
 > - multiplayer ~~gambling~~ card n' dice game
 > - a few tiny SNES/GBC/DS romhacks
 > - the YUMP project!
