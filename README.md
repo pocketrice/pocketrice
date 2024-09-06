@@ -4,11 +4,11 @@ Hello! This is my great big pit of java/c/shell/web/etc projects, under construc
 
   > [!note]
 > A few things I'm working on...
-> - a historically accurate Ottoman-era cannoneering game
+> - historically accurate Ottoman-era cannoneering game
 > - bunch of silly lil' web "experiences"
 > - multiplayer ~~gambling~~ card n' dice game
 > - a few tiny SNES/GBC/DS romhacks
-> - the YUMP project!
+> - the YUMP project
 
 And yes, also an ardent supporter of _you_ — yes, you, ya lovely human being! (୨୧ ❛ᴗ❛)✧
 <p align:"center">
