@@ -1,4 +1,4 @@
-> _hiya!_ ヾ(≧▽≦*)o 
+> _hiya!_ (〃'▽'〃)/
 
 Hello! This is my great big pit of java/c/shell/web/etc projects, under construction ad infinitum! 
 
