@@ -2,7 +2,7 @@
 
 Hello — this is my great big pit of java/c/shell/web/etc projects, under construction ad infinitum! 
 
-Note that many repos are presently empty, as most are ideas I draft and hope to later build upon; I focus on smaller projects encompassing everyday use-cases and a wide topic range in the hopes of **accruing universal skills** and **sculpting creative software I actually intend on using!**
+Note that many repos are presently empty, as most are ideas I draft and hope to later build upon; I focus on smaller projects encompassing everyday use-cases and a wide topic range in the hopes of **accruing universal skills** and **sculpting creative software I intend to realistically use.**
 
   > [!note]
 > Some current projects...
