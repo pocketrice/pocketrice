@@ -6,8 +6,10 @@ Hello — this is my great big pit of java/c/shell/web/etc projects, under const
 > A few things I'm working on...
 > - historically accurate Ottoman-era cannoneering game
 > - assortment of small web experiences
-> - multiplayer ~~gambling~~ card n' dice game
+> - https://solfleur.systems and assorted tools
 > - a few tiny SNES/GBC/DS romhacks
+> - experiential ruby / rust / react / electronics / networking personal projects for learning
+> - handful of tiny productivity Firefox extensions/Mac apps
 > - the YUMP project
 
 And yes, also an ardent supporter of _you_ — yes, you, ya lovely human being! (୨୧ ❛ᴗ❛)✧
