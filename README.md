@@ -1,11 +1,11 @@
 > _hiya!_ (〃'▽'〃)/
 
-Hello! This is my great big pit of java/c/shell/web/etc projects, under construction ad infinitum! 
+Hello — this is my great big pit of java/c/shell/web/etc projects, under construction ad infinitum! 
 
   > [!note]
 > A few things I'm working on...
 > - historically accurate Ottoman-era cannoneering game
-> - bunch of silly lil' web "experiences"
+> - assortment of small web experiences
 > - multiplayer ~~gambling~~ card n' dice game
 > - a few tiny SNES/GBC/DS romhacks
 > - the YUMP project
