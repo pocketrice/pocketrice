@@ -2,15 +2,15 @@
 
 Hello — this is my great big pit of java/c/shell/web/etc projects, under construction ad infinitum! 
 
-Note that many repos are presently empty, as most are ideas I draft and hope to later build upon; I focus on smaller projects encompassing everyday use-cases and a wide topic range in the hopes of **accruing universal skills** and **sculpting creative software I intend to realistically use.**
+Note that many repos are presently empty, as most are ideas I draft and hope to later build upon; I focus on smaller projects encompassing everyday use-cases and a wide topic range in the hopes of **sculpting creative software!**
 
   > [!note]
 > Some current projects...
 > - historically accurate Ottoman-era cannoneering game
 > - assortment of small web experiences
-> - https://solfleur.systems and assorted tools
+> - https://solfleur.systems + assorted web tools
 > - a few tiny SNES/GBC/DS romhacks
-> - experiential ruby / rust / react / electronics / networking personal projects for learning
+> - experiential ruby / rust / react / electronics / networking personal projects
 > - tiny Mac productivity apps (corkboard, LaTeX editor, etc.)
 > - the YUMP project
 
